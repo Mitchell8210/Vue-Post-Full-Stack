@@ -19,7 +19,9 @@ This application is set up with a few simple routes linked to a cloud based mong
 
 ### What to use this application for?
 This is meant to be a starter application that can help you to get familiar with working with Full-Stack web applications implementing Vue/Node.js/Express/Mongodb
+
 This can be altered to become just about anything you need it to become. Although if wanting to create a larger scale application with more than a few components, I suggest also implementing Vuex on the client side for State management. It will help you to be able to scale up more easily than with Vue on its own.
+
 :rocket: :rocket: :rocket:
 
 
